@@ -1,0 +1,3 @@
+oci-cli
+neovim
+act
